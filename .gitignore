@@ -1,3 +1,5 @@
 .idea/
 *.iml
-out/production/pset-1
+out/
+production/
+pset-1/
